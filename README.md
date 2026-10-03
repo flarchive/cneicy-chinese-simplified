@@ -2,13 +2,14 @@
 
 > **Read-only archive of released versions of cneicy/chinese-simplified.** Not for installation: use [Packagist](https://packagist.org/packages/cneicy/chinese-simplified) or the [upstream repository](https://github.com/cneicy/chinese-simplified).
 
-**0** versions archived · Latest: [`1.0.1`](https://github.com/flarchive/cneicy-chinese-simplified/tree/archive/v1.0.1) · License: `MIT` · Flarum: `^1.0.0`
+**2** versions archived · Latest: [`1.0.1`](https://github.com/flarchive/cneicy-chinese-simplified/tree/archive/v1.0.1) · License: `MIT` · Flarum: `^1.0.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `1.0.0` | 2024-06-06 | `^1.0.0` | [Browse](https://github.com/flarchive/cneicy-chinese-simplified/tree/archive/v1.0.0) |
+| `1.0.1` | 2024-07-29 | `^1.0.0` | [Browse](https://github.com/flarchive/cneicy-chinese-simplified/tree/archive/v1.0.1) |
 
 Catalog entry: [packages/cneicy-chinese-simplified.json](https://github.com/flarchive/archive-index/blob/main/packages/cneicy-chinese-simplified.json)
 
